@@ -257,6 +257,140 @@ Use the public filings below as structural references and data sources for build
 
 ---
 
+## Part 2B: Small Transactions Under $50 Million — SEC Filings (2024–2026)
+
+These smaller deals are harder to find on EDGAR because they receive less media coverage and many small acquirers are not required to file 8-Ks for immaterial acquisitions. Below are confirmed transactions with SEC filings.
+
+### 2B.1 CFSB Bancorp / Hometown Financial Group — $44 Million
+
+- **Filing type:** DEFM14A (CFSB Bancorp)
+- **Announcement date:** May 20, 2025
+- **Closing date:** November 1, 2025
+- **Deal value:** ~$44 million ($14.25/share, all-cash)
+- **Sector:** Community banking
+- **Key details:**
+  - CFSB had $366.6M total assets, $75.7M shareholders' equity at time of merger
+  - Hometown Financial ($6.6B assets) acquired CFSB's Colonial Federal Savings Bank
+  - Hometown's eighth strategic merger in the last decade
+  - Stock moved from $8.19 to $13.88 after announcement
+  - Special meeting held September 16, 2025; regulatory approvals October 21, 2025
+  - Termination fee: $1.6 million
+- **Advisors:** Piper Sandler (financial); Kilpatrick Townsend (legal, buyer); Luse Gorman (legal, seller)
+- **Why relevant:** Classic small community bank merger with full DEFM14A; clean example of sub-$50M deal process
+
+### 2B.2 Century Therapeutics / Clade Therapeutics — $45 Million
+
+- **Filing type:** 8-K (Century Therapeutics, ticker: IPSC)
+- **Announcement date:** April 11, 2024
+- **Closing date:** April 2024
+- **Deal value:** Up to $45 million ($35M upfront + $10M milestone)
+- **Sector:** Biotech / cell therapy
+- **Key details:**
+  - Upfront: $15M cash + ~4.5M shares of Century common stock (~$20M value)
+  - Milestone: $10M upon clinical milestone (payable in cash, stock, or combo)
+  - Seller: Syncona Limited (held 22% of Clade)
+  - Clade was a private company focused on iPSC-derived αβ T cells
+  - Paired with a $60M private placement by Century
+- **Advisors:** Lazard (financial, buyer); Goodwin Procter (legal, buyer); Cooley (legal, seller)
+- **Why relevant:** Small biotech acquisition with mixed cash/stock consideration and milestone structure
+
+### 2B.3 GSK / Elsie Biotechnologies — Up to $50 Million
+
+- **Filing type:** 6-K (GSK is UK-domiciled; uses Form 6-K instead of 8-K)
+- **Announcement date:** June 6, 2024
+- **Closing date:** June 2024 (no closing conditions)
+- **Deal value:** Up to $50 million
+- **Sector:** Biotech / oligonucleotide therapeutics
+- **Key details:**
+  - Elsie was a private San Diego-based biotech
+  - Followed a successful research collaboration announced July 2023
+  - Acquisition of platform technology (not a product acquisition)
+  - No closing conditions — deal completed immediately upon announcement
+- **Advisors:** Paul, Weiss (legal, buyer)
+- **Why relevant:** Technology/platform tuck-in acquisition by large pharma; simple deal structure
+
+### 2B.4 bluebird bio / Carlyle & SK Capital — ~$50 Million (upfront)
+
+- **Filing type:** SC TO-T (tender offer), Schedule 14D-9, 8-K
+- **Announcement date:** December 2024
+- **Closing date:** June 2, 2025
+- **Deal value:** ~$50M upfront ($3.00/share) + CVR ($6.84/share if $600M net sales achieved)
+- **Sector:** Biotech / gene therapy
+- **Key details:**
+  - bluebird bio once valued at >$10B; acquired for ~$50M cash upfront
+  - Tender offer commenced December 12, 2024; expired February 4, 2025
+  - Three approved gene therapies: Lyfgenia (sickle cell), Skysona (adrenoleukodystrophy), Zynteglo (beta thalassemia)
+  - PE take-private with contingent value right structure
+- **Why relevant:** Distressed biotech take-private by PE; CVR structure example; dramatic valuation decline narrative
+
+### 2B.5 Doma Holdings / Title Resources Group (TRG) — ~$85 Million
+
+- **Filing type:** DEFM14A, 8-K (Doma Holdings, ticker: DOMA)
+- **Announcement date:** March 28, 2024
+- **Closing date:** October 1, 2024
+- **Deal value:** ~$85 million ($6.29/share, all-cash)
+- **Sector:** Title insurance / proptech
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1722438/000143774924022986/doma20240716_defm14a.htm
+- **Key details:**
+  - 43% premium over prior closing price; 33.9% premium over 30-day VWAP
+  - Doma's tech division spun into separately capitalized entity (Doma TechCo)
+  - Shareholder approval: August 27, 2024
+  - Centerbridge Partners as largest shareholder in TRG post-close
+  - Special committee of independent directors led process
+- **Why relevant:** Small-cap take-private with tech carve-out; slightly above $50M but useful comparable
+
+### 2B.6 Limbach Holdings / Consolidated Mechanical Inc. — $23 Million
+
+- **Filing type:** 8-K (Limbach Holdings, ticker: LMB)
+- **Announcement date:** December 2, 2024
+- **Closing date:** December 2, 2024
+- **Deal value:** $23.0 million (all-cash)
+- **Sector:** Building systems / mechanical contracting
+- **Key details:**
+  - Tuck-in acquisition by Limbach Holdings (market cap ~$2B)
+  - Paid in cash at closing
+  - Bolt-on acquisition strategy for building systems platform
+- **Why relevant:** Clean small bolt-on acquisition; simple all-cash structure
+
+### 2B.7 ServiceTitan / Convex Labs Inc. — $25.8 Million
+
+- **Filing type:** 8-K / 10-K disclosure (ServiceTitan, ticker: TTAN)
+- **Announcement date:** April 2024
+- **Closing date:** April 2024
+- **Deal value:** $25.8 million ($23.5M in stock + $2.3M cash)
+- **Sector:** SaaS / field service technology
+- **Key details:**
+  - 373,118 shares of ServiceTitan common stock + $2.3M cash
+  - Primarily stock consideration (91% stock / 9% cash)
+  - Convex Labs was a private company
+- **Why relevant:** Small tech acquisition with predominantly stock consideration; SaaS tuck-in
+
+### 2B.8 Ondas Holdings / Sentry CS Ltd — ~$11.3M Revenue Target
+
+- **Filing type:** 8-K (Ondas Holdings, ticker: ONDS)
+- **Closing date:** November 17, 2025
+- **Deal value:** Not publicly disclosed (target had $11.3M revenue, $8.2M gross profit)
+- **Sector:** Technology / autonomous systems
+- **Key details:**
+  - Sentry CS reported $11.3M sales, $8.2M gross profit, $(13.5M) net loss for FY2024
+  - Acquisition to bolster autonomous security solutions
+- **Why relevant:** Micro-cap acquirer buying unprofitable growth-stage company
+
+### 2B.9 Summary Table — Small Transactions Under $50M
+
+| Deal | Value | Date Closed | Type | Sector | Filing |
+|------|-------|-------------|------|--------|--------|
+| CFSB Bancorp / Hometown Financial | $44M | Nov 2025 | All-cash | Banking | DEFM14A |
+| Century Therapeutics / Clade | $45M | Apr 2024 | Cash + stock + milestone | Biotech | 8-K |
+| GSK / Elsie Biotechnologies | $50M | Jun 2024 | Cash | Biotech | 6-K |
+| bluebird bio / Carlyle & SK Capital | $50M + CVR | Jun 2025 | Tender offer | Biotech | SC TO-T |
+| Doma Holdings / TRG | $85M | Oct 2024 | All-cash | Title insurance | DEFM14A |
+| Limbach / Consolidated Mechanical | $23M | Dec 2024 | All-cash | Building systems | 8-K |
+| ServiceTitan / Convex Labs | $25.8M | Apr 2024 | Stock + cash | SaaS | 8-K |
+| Ondas / Sentry CS | Undisclosed | Nov 2025 | Undisclosed | Technology | 8-K |
+
+---
+
 ## Part 3: How to Use These Filings
 
 ### For CIM Drafting
@@ -313,6 +447,11 @@ Use the public filings below as structural references and data sources for build
 | Kellanova | 55067 |
 | Walgreens Boots Alliance | 1618921 |
 | Pfizer | 78003 |
+| Century Therapeutics (IPSC) | 1801417 |
+| Doma Holdings (DOMA) | 1722438 |
+| CFSB Bancorp (CFSB) | 1861795 |
+| Limbach Holdings (LMB) | 1606163 |
+| bluebird bio (BLUE) | 1293971 |
 
 ---
 
