@@ -391,6 +391,117 @@ These smaller deals are harder to find on EDGAR because they receive less media 
 
 ---
 
+## Part 2C: M&A Presentation Decks Filed with the SEC (Exhibit 99.2 / Form 425)
+
+Actual investor presentation slide decks are filed as **Exhibit 99.2** to 8-K filings or as **Form 425** communications. These are the closest public equivalents to internal M&A pitch decks.
+
+### How Presentations Get Filed
+
+- **Form 425** — Written communications regarding mergers; filed under Securities Act Rule 425
+- **Exhibit 99.1** — Typically the press release
+- **Exhibit 99.2** — Typically the investor presentation / slide deck
+- **DEFA14A** — Additional definitive proxy materials (sometimes includes presentations)
+- **DFAN14A** — Additional proxy materials filed by non-management (activist presentations)
+
+### 2C.1 Capital One / Discover — Merger Investor Presentation (Feb 2024)
+
+- **Filing type:** Form 425 / EX-99.2
+- **Date:** February 20, 2024
+- **SEC EDGAR:**
+  - 425 filing: https://www.sec.gov/Archives/edgar/data/927628/000119312524039259/d772981d425.htm
+  - EX-99.2 (slides): https://www.sec.gov/Archives/edgar/data/927628/000119312524039233/d772981dex992.htm
+- **Presentation content:**
+  - Transaction overview: 1.0192x exchange ratio, 100% stock, $35.3B implied value
+  - Strategic rationale and synergy detail ($1.5B expense + $1.2B network synergies)
+  - Pro forma financial metrics: >15% adjusted EPS accretion, >20% IRR
+  - Credit mark assumptions: $8.6B loan credit marks (7.3% of Discover loans)
+  - Capital position: 13.9% pro forma CET1 at close
+  - Leadership and governance structure
+- **Why useful:** Gold-standard large-cap financial services merger deck; shows synergy quantification, premium analysis, and pro forma modeling
+
+### 2C.2 ConocoPhillips / Marathon Oil — Merger Investor Presentation (May 2024)
+
+- **Filing type:** Form 425 / EX-99.2
+- **Date:** May 29, 2024
+- **SEC EDGAR:**
+  - 425 filing (Marathon): https://www.sec.gov/Archives/edgar/data/101778/000119312524148640/d843914d425.htm
+  - 8-K (ConocoPhillips): https://www.sec.gov/Archives/edgar/data/1163165/000110465924065814/tm2415645d1_8k.htm
+- **Presentation content:**
+  - All-stock transaction, $22.5B enterprise value, 0.2550 exchange ratio
+  - 14.7% premium, $557M termination fee
+  - Permian Basin consolidation thesis
+  - Combined production and capital budget projections
+- **Why useful:** Clean energy sector merger presentation; all-stock structure with detailed asset-level analysis
+
+### 2C.3 Diamondback Energy / Endeavor — Merger Investor Presentation (Feb 2024)
+
+- **Filing type:** Form 425 / EX-99.2
+- **Date:** February 12, 2024
+- **Presentation title:** "Creating the Must-Own Permian Pure Play"
+- **Presentation content:**
+  - $26B transaction (cash + stock); $8B cash + 117.3M Diamondback shares
+  - Post-close ownership: ~60.5% FANG / ~39.5% Endeavor
+  - Combined production guidance, capital budgets, and return of capital targets
+  - Public/private combination structure
+- **Why useful:** Mixed consideration deal with public/private dynamics; shows valuation bridge for private target
+
+### 2C.4 Walgreens / Sycamore Partners — Merger Investor Presentation (Mar 2025)
+
+- **Filing type:** DEFA14A / EX-99.2
+- **Date:** March 6, 2025
+- **SEC EDGAR:**
+  - DEFA14A: https://www.sec.gov/Archives/edgar/data/1618921/000119312525048547/d907486ddefa14a.htm
+- **Presentation title:** "Walgreens Boots Alliance to Be Acquired by Sycamore Partners"
+- **Presentation content:**
+  - Up to $23.7B total value; $11.45/share cash + DAP Rights (up to $3.00/share)
+  - Going-private transaction structure
+  - PE take-private strategic rationale
+  - VillageMD divestiture proceeds mechanism
+- **Advisors:** Centerview, Morgan Stanley (WBA); UBS, Goldman, J.P. Morgan (Sycamore)
+- **Why useful:** PE take-private presentation with complex consideration structure (cash + contingent rights)
+
+### 2C.5 TMTG / TAE Technologies — Merger Investor Presentation (Dec 2025)
+
+- **Filing type:** Form 425 / EX-99.2
+- **Date:** December 18, 2025
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1849635/000114036125045967/ef20061515_425.htm
+- **Presentation content:**
+  - All-stock transaction valued at >$6B
+  - Fusion energy technology company combination
+  - Detailed technology and market overview slides
+- **Why useful:** Technology company SPAC/merger with extensive technology description slides
+
+### 2C.6 Fifth Third / Comerica — Merger Investor Presentation (Oct 2025)
+
+- **Filing type:** Form 425 / EX-99.2
+- **Date:** October 6, 2025
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/28412/000119312525230874/d91245d425.htm
+- **Presentation content:**
+  - Large bank merger; market share and branch overlap analysis
+  - Expense synergy detail and growth strategy metrics
+- **Why useful:** Financial services merger presentation with branch/market analysis
+
+### 2C.7 Summary — Where to Find M&A Presentation Decks on EDGAR
+
+| Deal | Value | Date | Filing | Direct Link |
+|------|-------|------|--------|-------------|
+| Capital One / Discover | $35.3B | Feb 2024 | 425/EX-99.2 | [Slides](https://www.sec.gov/Archives/edgar/data/927628/000119312524039233/d772981dex992.htm) |
+| ConocoPhillips / Marathon | $22.5B | May 2024 | 425/EX-99.2 | [Filing](https://www.sec.gov/Archives/edgar/data/101778/000119312524148640/d843914d425.htm) |
+| Diamondback / Endeavor | $26B | Feb 2024 | 425/EX-99.2 | [IR Page](https://www.diamondbackenergy.com/static-files/3eeca7bb-494d-4057-84aa-706275f65608) |
+| Walgreens / Sycamore | $23.7B | Mar 2025 | DEFA14A/EX-99.2 | [Filing](https://www.sec.gov/Archives/edgar/data/1618921/000119312525048547/d907486ddefa14a.htm) |
+| TMTG / TAE Technologies | $6B+ | Dec 2025 | 425/EX-99.2 | [Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125045967/ef20061515_425.htm) |
+| Fifth Third / Comerica | Large | Oct 2025 | 425/EX-99.2 | [Filing](https://www.sec.gov/Archives/edgar/data/28412/000119312525230874/d91245d425.htm) |
+
+### Search Tips for Finding More Presentation Decks
+
+To find M&A presentation decks on EDGAR:
+1. Search for the **Form 425** filing by either party to the merger
+2. Look for **Exhibit 99.2** in the 8-K filing index (99.1 is usually the press release, 99.2 is the deck)
+3. Check **DEFA14A** filings for additional proxy materials that include presentations
+4. Search EDGAR full-text for `"investor presentation"` filtered to Form `425` or `8-K`
+
+---
+
 ## Part 3: How to Use These Filings
 
 ### For CIM Drafting
