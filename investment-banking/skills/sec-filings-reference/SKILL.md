@@ -403,94 +403,170 @@ Actual investor presentation slide decks are filed as **Exhibit 99.2** to 8-K fi
 - **DEFA14A** — Additional definitive proxy materials (sometimes includes presentations)
 - **DFAN14A** — Additional proxy materials filed by non-management (activist presentations)
 
-### 2C.1 Capital One / Discover — Merger Investor Presentation (Feb 2024)
+### Small / Mid-Cap M&A Presentation Decks (Under ~$500M) — 10 Examples
+
+These are the most useful examples for smaller deals. Each has an actual slide deck filed with the SEC.
+
+### 2C.1 GrabAGun / Colombier Acquisition Corp. II — ~$150M (2025)
+
+- **Filing type:** 8-K / EX-99.1
+- **Date:** March 2025
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1995413/000101376225001247/ea023533101ex99-1_colombier2.htm
+- **Deal value:** $150 million (2:1 stock/cash mix at $10/share)
+- **Sector:** E-commerce / firearms retail
+- **Presentation content:**
+  - FY24 revenue: $93.1M, FY24 EBITDA: $4.7M
+  - 1.25M registered accounts, ~22K monthly transactions, 77K+ active SKUs
+  - Colombier acquisition thesis and growth strategy
+  - Positioned as "2A sector consolidator"
+- **Why useful:** Small-cap de-SPAC with detailed revenue metrics, marketplace KPIs, and consolidation thesis
+
+### 2C.2 Helix Acquisition Corp. II / BridgeBio Oncology (BBOT) — $446M Pre-Money (Feb 2025)
+
+- **Filing type:** 8-K / EX-99.2
+- **Date:** February 2025
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1869105/000121390025018335/ea023255501ex99-2_helix2.htm
+- **Deal value:** $446M pre-money equity value; $196M trust + $261M PIPE
+- **Sector:** Biotech / oncology
+- **Presentation content:**
+  - Implied pre-money equity value breakdown
+  - Trust + PIPE sources and uses
+  - ~250K annual incident patients across breast, lung, colorectal, pancreatic cancer
+  - Clinical pipeline and competitive positioning
+- **Why useful:** Clean biotech de-SPAC deck with sources & uses, valuation, and clinical data
+
+### 2C.3 Blue Ocean Acquisition Corp / TNL Mediagene — $275M (2024)
+
+- **Filing type:** 8-K / EX-99.1
+- **Date:** 2024
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1856961/000121390024085769/ea021676801ex99-1_blueocean.htm
+- **Deal value:** $275M equity value (minus $15M expected debt)
+- **Sector:** Digital media (Asia)
+- **Presentation content:**
+  - "Asia's Next-Generation Media" positioning
+  - Revenue and growth metrics for digital media platform
+  - Transaction overview with valuation bridge
+- **Why useful:** Small international media company acquisition; shows cross-border deal structure
+
+### 2C.4 ScanTech / Mars Acquisition Corp — Small Cap (Sep 2024)
+
+- **Filing type:** 8-K / EX-99.1
+- **Date:** September 2024
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1892922/000110465924097431/tm2423421d1_8k.htm
+- **Deal value:** Small (SPAC trust-based)
+- **Sector:** Security technology / identification
+- **Presentation content:**
+  - Business combination agreement overview
+  - S-4 registration statement details
+  - Technology and market overview
+- **Why useful:** Small-cap industrial tech SPAC combination; simple deal structure
+
+### 2C.5 Kindly (KDLY) / Nakamoto (BTC Inc) — ~$510M (2025)
 
 - **Filing type:** Form 425 / EX-99.2
-- **Date:** February 20, 2024
-- **SEC EDGAR:**
-  - 425 filing: https://www.sec.gov/Archives/edgar/data/927628/000119312524039259/d772981d425.htm
-  - EX-99.2 (slides): https://www.sec.gov/Archives/edgar/data/927628/000119312524039233/d772981dex992.htm
+- **Date:** 2025
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1946573/000121390025041722/ea024162001ex99-2_kindly.htm
+- **Deal value:** ~$510M (PIPE + convertible)
+- **Sector:** Digital media / Bitcoin
 - **Presentation content:**
-  - Transaction overview: 1.0192x exchange ratio, 100% stock, $35.3B implied value
-  - Strategic rationale and synergy detail ($1.5B expense + $1.2B network synergies)
-  - Pro forma financial metrics: >15% adjusted EPS accretion, >20% IRR
-  - Credit mark assumptions: $8.6B loan credit marks (7.3% of Discover loans)
-  - Capital position: 13.9% pro forma CET1 at close
-  - Leadership and governance structure
-- **Why useful:** Gold-standard large-cap financial services merger deck; shows synergy quantification, premium analysis, and pro forma modeling
+  - FY24 revenue: $39M with 131% growth, FY25E: $67M
+  - Pro forma ownership breakdown
+  - $40M transaction costs estimate
+  - Revenue growth trajectory and market opportunity
+- **Why useful:** High-growth small-cap merger with detailed revenue projections and ownership waterfall
 
-### 2C.2 ConocoPhillips / Marathon Oil — Merger Investor Presentation (May 2024)
+### 2C.6 Blockfusion / Blue Acquisition Corp — Small Cap (Nov 2025)
 
 - **Filing type:** Form 425 / EX-99.2
-- **Date:** May 29, 2024
-- **SEC EDGAR:**
-  - 425 filing (Marathon): https://www.sec.gov/Archives/edgar/data/101778/000119312524148640/d843914d425.htm
-  - 8-K (ConocoPhillips): https://www.sec.gov/Archives/edgar/data/1163165/000110465924065814/tm2415645d1_8k.htm
+- **Date:** November 2025
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/2059654/000118518525001798/baccex99-2.htm
+- **Deal value:** Small (SPAC trust-based)
+- **Sector:** Data centers / infrastructure
 - **Presentation content:**
-  - All-stock transaction, $22.5B enterprise value, 0.2550 exchange ratio
-  - 14.7% premium, $557M termination fee
-  - Permian Basin consolidation thesis
-  - Combined production and capital budget projections
-- **Why useful:** Clean energy sector merger presentation; all-stock structure with detailed asset-level analysis
+  - Power generation and data center demand thesis
+  - Transmission grid capacity analysis
+  - Sponsor expertise and SPAC track record
+- **Why useful:** Infrastructure-focused small-cap combination; shows power/data center market slides
 
-### 2C.3 Diamondback Energy / Endeavor — Merger Investor Presentation (Feb 2024)
+### 2C.7 Mach Natural Resources — Acquisition Presentation (Sep 2025)
+
+- **Filing type:** 8-K / EX-99.2
+- **Date:** September 16, 2025
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1980088/000121390025088361/ea025751501ex99-2_mach.htm
+- **Deal value:** $1.3B cumulative acquisitions (individual deals $500M–$771M)
+- **Sector:** Oil & gas / E&P
+- **Presentation content:**
+  - Pro forma enterprise value: $3.4B, market cap: $1.6B
+  - Serial acquirer strategy with multiple bolt-on deals
+  - Combined production metrics (68 MBOED)
+  - Accretion analysis for each transaction
+- **Why useful:** Roll-up/serial acquirer presentation showing multiple bolt-on deal economics
+
+### 2C.8 IQM / Real Asset Acquisition Corp (RAAQ) — Small Cap (Feb 2026)
+
+- **Filing type:** 8-K / EX-99.2
+- **Date:** February 2026
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/2052161/000121390026019008/ea027739701ex99-2_realasset.htm
+- **Deal value:** SPAC trust-based (small cap)
+- **Sector:** Quantum computing
+- **Presentation content:**
+  - Technology and market overview for quantum computing
+  - Business combination structure and timeline
+  - Competitive landscape and differentiation
+- **Why useful:** Deep tech small-cap combination; detailed technology-focused slides
+
+### 2C.9 CorpAcq / Churchill Capital Corp VII — ~$500M Range (2024)
 
 - **Filing type:** Form 425 / EX-99.2
-- **Date:** February 12, 2024
-- **Presentation title:** "Creating the Must-Own Permian Pure Play"
+- **Date:** Late 2023 / Early 2024
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1828248/000110465923119294/tm2330789d1_ex99-2.htm
+- **Deal value:** ~$500M range
+- **Sector:** Industrial / platform acquirer (UK-based)
 - **Presentation content:**
-  - $26B transaction (cash + stock); $8B cash + 117.3M Diamondback shares
-  - Post-close ownership: ~60.5% FANG / ~39.5% Endeavor
-  - Combined production guidance, capital budgets, and return of capital targets
-  - Public/private combination structure
-- **Why useful:** Mixed consideration deal with public/private dynamics; shows valuation bridge for private target
+  - Platform acquisition strategy (buy-and-build)
+  - Portfolio of ~40 SME businesses across industrial sectors
+  - Capital deployment pace and acquisition pipeline
+  - Revenue, EBITDA, and margin analysis across portfolio
+- **Why useful:** Serial acquirer / buy-and-build platform; shows portfolio-level metrics and acquisition economics
 
-### 2C.4 Walgreens / Sycamore Partners — Merger Investor Presentation (Mar 2025)
+### 2C.10 StoreDot / Andretti Acquisition Corp II — $800M Pre-Money (Dec 2025)
 
-- **Filing type:** DEFA14A / EX-99.2
-- **Date:** March 6, 2025
-- **SEC EDGAR:**
-  - DEFA14A: https://www.sec.gov/Archives/edgar/data/1618921/000119312525048547/d907486ddefa14a.htm
-- **Presentation title:** "Walgreens Boots Alliance to Be Acquired by Sycamore Partners"
+- **Filing type:** Form 425 / EX-99.1
+- **Date:** December 2025
+- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/2025341/000121390025117587/ea026831801ex99-1_andretti2.htm
+- **Deal value:** $800M pre-money equity value
+- **Sector:** EV battery technology
 - **Presentation content:**
-  - Up to $23.7B total value; $11.45/share cash + DAP Rights (up to $3.00/share)
-  - Going-private transaction structure
-  - PE take-private strategic rationale
-  - VillageMD divestiture proceeds mechanism
-- **Advisors:** Centerview, Morgan Stanley (WBA); UBS, Goldman, J.P. Morgan (Sycamore)
-- **Why useful:** PE take-private presentation with complex consideration structure (cash + contingent rights)
+  - Extreme fast charging (XFC) battery technology overview
+  - Strategic investors: Daimler, Volvo, Polestar, VinFast, BP, TDK, Samsung
+  - Comparable company benchmarking vs. QuantumScape
+  - Technology roadmap and commercialization timeline
+- **Why useful:** Deep tech de-SPAC with strong investor roster; shows technology validation and comp analysis
 
-### 2C.5 TMTG / TAE Technologies — Merger Investor Presentation (Dec 2025)
+### 2C.11 Summary — Small/Mid-Cap M&A Presentation Decks
 
-- **Filing type:** Form 425 / EX-99.2
-- **Date:** December 18, 2025
-- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/1849635/000114036125045967/ef20061515_425.htm
-- **Presentation content:**
-  - All-stock transaction valued at >$6B
-  - Fusion energy technology company combination
-  - Detailed technology and market overview slides
-- **Why useful:** Technology company SPAC/merger with extensive technology description slides
+| # | Deal | Value | Date | Sector | Direct Link |
+|---|------|-------|------|--------|-------------|
+| 1 | GrabAGun / Colombier II | $150M | Mar 2025 | E-commerce | [Slides](https://www.sec.gov/Archives/edgar/data/1995413/000101376225001247/ea023533101ex99-1_colombier2.htm) |
+| 2 | Helix II / BBOT | $446M | Feb 2025 | Biotech | [Slides](https://www.sec.gov/Archives/edgar/data/1869105/000121390025018335/ea023255501ex99-2_helix2.htm) |
+| 3 | Blue Ocean / TNL Mediagene | $275M | 2024 | Digital media | [Slides](https://www.sec.gov/Archives/edgar/data/1856961/000121390024085769/ea021676801ex99-1_blueocean.htm) |
+| 4 | ScanTech / Mars Acq Corp | Small | Sep 2024 | Security tech | [Slides](https://www.sec.gov/Archives/edgar/data/1892922/000110465924097431/tm2423421d1_8k.htm) |
+| 5 | Kindly / Nakamoto | ~$510M | 2025 | Digital / BTC | [Slides](https://www.sec.gov/Archives/edgar/data/1946573/000121390025041722/ea024162001ex99-2_kindly.htm) |
+| 6 | Blockfusion / Blue Acq | Small | Nov 2025 | Data centers | [Slides](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001798/baccex99-2.htm) |
+| 7 | Mach Natural Resources | $1.3B cumul. | Sep 2025 | Oil & gas | [Slides](https://www.sec.gov/Archives/edgar/data/1980088/000121390025088361/ea025751501ex99-2_mach.htm) |
+| 8 | IQM / RAAQ | Small | Feb 2026 | Quantum computing | [Slides](https://www.sec.gov/Archives/edgar/data/2052161/000121390026019008/ea027739701ex99-2_realasset.htm) |
+| 9 | CorpAcq / Churchill VII | ~$500M | 2024 | Industrial platform | [Slides](https://www.sec.gov/Archives/edgar/data/1828248/000110465923119294/tm2330789d1_ex99-2.htm) |
+| 10 | StoreDot / Andretti II | $800M | Dec 2025 | EV batteries | [Slides](https://www.sec.gov/Archives/edgar/data/2025341/000121390025117587/ea026831801ex99-1_andretti2.htm) |
 
-### 2C.6 Fifth Third / Comerica — Merger Investor Presentation (Oct 2025)
+### Large-Cap M&A Decks (For Reference)
 
-- **Filing type:** Form 425 / EX-99.2
-- **Date:** October 6, 2025
-- **SEC EDGAR:** https://www.sec.gov/Archives/edgar/data/28412/000119312525230874/d91245d425.htm
-- **Presentation content:**
-  - Large bank merger; market share and branch overlap analysis
-  - Expense synergy detail and growth strategy metrics
-- **Why useful:** Financial services merger presentation with branch/market analysis
-
-### 2C.7 Summary — Where to Find M&A Presentation Decks on EDGAR
-
-| Deal | Value | Date | Filing | Direct Link |
-|------|-------|------|--------|-------------|
-| Capital One / Discover | $35.3B | Feb 2024 | 425/EX-99.2 | [Slides](https://www.sec.gov/Archives/edgar/data/927628/000119312524039233/d772981dex992.htm) |
-| ConocoPhillips / Marathon | $22.5B | May 2024 | 425/EX-99.2 | [Filing](https://www.sec.gov/Archives/edgar/data/101778/000119312524148640/d843914d425.htm) |
-| Diamondback / Endeavor | $26B | Feb 2024 | 425/EX-99.2 | [IR Page](https://www.diamondbackenergy.com/static-files/3eeca7bb-494d-4057-84aa-706275f65608) |
-| Walgreens / Sycamore | $23.7B | Mar 2025 | DEFA14A/EX-99.2 | [Filing](https://www.sec.gov/Archives/edgar/data/1618921/000119312525048547/d907486ddefa14a.htm) |
-| TMTG / TAE Technologies | $6B+ | Dec 2025 | 425/EX-99.2 | [Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125045967/ef20061515_425.htm) |
-| Fifth Third / Comerica | Large | Oct 2025 | 425/EX-99.2 | [Filing](https://www.sec.gov/Archives/edgar/data/28412/000119312525230874/d91245d425.htm) |
+| Deal | Value | Date | Direct Link |
+|------|-------|------|-------------|
+| Capital One / Discover | $35.3B | Feb 2024 | [Slides](https://www.sec.gov/Archives/edgar/data/927628/000119312524039233/d772981dex992.htm) |
+| ConocoPhillips / Marathon | $22.5B | May 2024 | [Filing](https://www.sec.gov/Archives/edgar/data/101778/000119312524148640/d843914d425.htm) |
+| Diamondback / Endeavor | $26B | Feb 2024 | [IR Page](https://www.diamondbackenergy.com/static-files/3eeca7bb-494d-4057-84aa-706275f65608) |
+| Walgreens / Sycamore | $23.7B | Mar 2025 | [Filing](https://www.sec.gov/Archives/edgar/data/1618921/000119312525048547/d907486ddefa14a.htm) |
+| Fifth Third / Comerica | $10.9B | Oct 2025 | [Filing](https://www.sec.gov/Archives/edgar/data/28412/000119312525230874/d91245d425.htm) |
 
 ### Search Tips for Finding More Presentation Decks
 
@@ -499,6 +575,7 @@ To find M&A presentation decks on EDGAR:
 2. Look for **Exhibit 99.2** in the 8-K filing index (99.1 is usually the press release, 99.2 is the deck)
 3. Check **DEFA14A** filings for additional proxy materials that include presentations
 4. Search EDGAR full-text for `"investor presentation"` filtered to Form `425` or `8-K`
+5. De-SPAC / business combination deals are the **richest source** of small-cap presentation decks
 
 ---
 
