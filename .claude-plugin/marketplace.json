@@ -3,6 +3,7 @@
   "owner": {
     "name": "Anthropic"
   },
+  "source": "your-username/financial-services-plugins",
   "plugins": [
     {
       "name": "financial-analysis",
